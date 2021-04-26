@@ -1,10 +1,10 @@
 +++
 title = "All"
 subtitle = ""
-description = "A practical framework for supporting the writing of analysis in social care records"
-url= "introduction"
-date = 2021-03-20T15:13:22Z
-draft = false
+description = "Make sense of what COVID-19 crisis has meant for outcomes for people"
+url= "all"
+date = 2021-05-01T15:13:22Z
+draft = true
 menu = "main"
 weight = 200
 +++
@@ -48,7 +48,11 @@ In Scotland there is growing commitment across the health and social care system
 
 [HEART IMAGE]
 
+{{< soundcloud 999078247 >}}
+
 [Julie: ‘Personal outcomes has helped me articulate my values in practice’](https://soundcloud.com/iriss/julie-outcomes/s-6cF4SOa2Sk1)
+
+{{< soundcloud 999078631 >}}
 
 [Don: ‘There is no one size fits all in this sector’](https://soundcloud.com/iriss/don-outcomes/s-hROf7oENldb)
 
@@ -180,8 +184,6 @@ The stories gathered in the spring and early summer of 2020 took a snapshot of t
 
 This section outlines the key changes that took place in the early months of the pandemic including changing roles, redesigning services, support to work online and the associated pros and cons of using technology. Ultimately, these changes were required in order to continue to focus on outcomes for people (highlighted in the text). At this stage, there was emphasis on ensuring that people supported by services had access to food, medicines and the essentials required to **maintain health and wellbeing**.  A key concern was how to maintain this provision in ways that were **safe** to both supported people and staff. An additional concern was how to maintain **human contact** and **avoid isolation**. There was also recognition within teams, organisations and communities of the need for interconnection and **collaboration** within and between agencies, and with the public in order to achieve these key outcomes. The emotional impact on storytellers and those they supported is also explored.
 
-[IMAGE]
-
 {{< vimeo 522360512 >}}
 
 ## Key changes to systems and processes
@@ -195,7 +197,7 @@ The stories describe the ways in which roles had to change as people responded t
 
 The most prevalent key change commonly described in the stories was moving to remote and home working. Alongside the shift online was a concern to maintain two-way communication in order to **keep people informed**, and of **finding out what mattered to people**.
 
-[IMAGE]
+{{< soundcloud 997896736 >}}
 
 [Wilma: ‘My role has been so different’](https://soundcloud.com/iriss/wilma-roles/s-SFjM7ohAZva)
 
@@ -209,7 +211,7 @@ The pandemic meant quickly accelerating digital plans to keep people **connected
 
 One of the key reasons for switching to online was to facilitate the mass adaptation of people across sectors working from home, which was met with mixed responses from staff.
 
-[IMAGE]
+{{< soundcloud 1004745862 >}}
 
 [Alison: ‘I lot of what we did changed overnight’](https://soundcloud.com/iriss/alison-rethink/s-2y6jYwOE3T8)
 
@@ -232,6 +234,8 @@ The fast pace of switching to using technology was in contrast to the traditiona
 **Keir**
 
 With regard to their own sense of connectedness, most storytellers viewed the switch to online as necessary if not ideal. Technology meant that they **didn’t feel isolated** (Paula) and it provided a ‘lifeline’ to other colleagues (Children and families worker). While we go on to consider some of the limitations identified with providing services online, practitioners identified many ways in which online access was helping with reaching supported people.  
+
+{{< soundcloud 997884352 >}}
 
 [Keir: ‘Providing that safe online environment has been absolutely indispensable’](https://soundcloud.com/iriss/keir-safety/s-6m5zeU3TVFh)
 
@@ -258,6 +262,8 @@ Although not a strong theme at this early stage, it was already emerging that fo
 **Bryony**
 
 Although internet technology dominated many of the narratives, the stories also emphasised the importance of using the phone to keep in touch with more isolated groups, including the welfare call service described in Katy’s story and the thousands of wellbeing calls made by the volunteers in Alison’s story. Yet concerns remained about people who had not yet been reached (Catherine, Alice).
+
+{{< soundcloud 997897426 >}}
 
 [Wilma: ‘I’m conscious of the digital divide Covid has exposed’](https://soundcloud.com/iriss/wilma-digitaldivide/s-mGE00QU8Bmn)
 
@@ -325,6 +331,8 @@ Some practitioners had moved to different parts of the system and were performin
 
 Technology also helped maintain togetherness and cohesion for teams, **reducing feelings of isolation** for those working from home (Paula, family support worker 2), being a tool for clinical supervision (James and Joanna) and for daily ‘team cuddles’ (Don). Also, crucially, technology facilitated communication which was frequently highlighted as enabling effective partnership working at all levels.
 
+{{< soundcloud 999063112 >}}
+
 [Don: ‘We’re a close knit team’](https://soundcloud.com/iriss/don-team/s-6URFmdm9DrI)
 
 ### Wider shifts within organisations
@@ -347,11 +355,19 @@ Where decision-making and autonomy was further devolved to staff working directl
 > ...a lot of work is centred around processes and decision-making, based on fixed criteria...There are numerous blocks in the system and the work can be demoralising at times… Since COVID-19… our approach has been often more reactive and creative.  
 **Lesley**
 
+{{< soundcloud 999165718 >}}
+
 [Don: ‘Put that rule book aside’](https://soundcloud.com/iriss/don-rulebook/s-0ThUHloF8iz)
+
+{{< soundcloud 999064060 >}}
 
 [Julie: ‘Information was relatable and human’](https://soundcloud.com/iriss/julie-comms/s-yInVxxznqIt)
 
+{{< soundcloud 999175081 >}}
+
 [Alison: ‘You have to have trust and courage’](https://soundcloud.com/iriss/alison-leadership-1/s-PsXVqaRLoCD)
+
+{{< soundcloud 999174175 >}}
 
 [Don: ‘Two words that spring to mind are energy and horizons’](https://soundcloud.com/iriss/don-energy/s-UEZeXAGgmhk)
 
@@ -369,7 +385,11 @@ This new landscape for partnerships seemed to foster more equal relationships wi
 
 Several stories (Anne-Marie, Katy, Alice) described that approaching information sharing and governance differently enabled effective partnerships and the development of services to better meet people’s needs at this time. Further, the de-prioritisation of bureaucracy was also identified as enabling partnerships to work more effectively (Theresa, Claire, Fatima, Rachael).
 
+{{< soundcloud 1004770801 >}}
+
 [Alison: ‘The relationships were there before’](https://soundcloud.com/iriss/alison-workingtogether-1/s-ZlE7sHWgQUR)
+
+{{< youtube phPwy7bqLvY >}}
 
 [Katy: ‘This was a really proactive approach](https://www.youtube.com/watch?v=phPwy7bqLvY&feature=youtu.be)
 
@@ -419,7 +439,11 @@ What supported the storytellers was self-care (Mark, Donna, Keir), as well as re
 
 While self-care and maintaining values was identified as a key part of staff strategies for survival, the importance of team and organisational support as identified above also played a very significant role in this.
 
+{{< soundcloud 999064864 >}}
+
 [Keir: ‘Who cares for the carers?’](https://soundcloud.com/iriss/keir-selfcare/s-LTDNOhZHFWh)
+
+{{< soundcloud 999366622 >}}
 
 [Julie: ‘I feel like I’m fully living the values’](https://soundcloud.com/iriss/julie-values/s-gFNTjBgWTLh)
 
@@ -446,6 +470,8 @@ The common humanity underlying **relationships and connection** of the earlier s
 > People have responded positively to the shared experience approach and this helps **diffuse some of the anxiety** that we have all had to bear for the last seven months.  
 **Sandy**
 
+{{< soundcloud 999383884 >}}
+
  [Catherine: ‘What we’re seeing is more staff distress](https://soundcloud.com/iriss/cath-servicechanges/s-epxgHT5Medg)’
 
 ## Technology
@@ -456,6 +482,8 @@ With few exceptions most of our storytellers were still engaging with their coll
 
 > But it is not satisfactory to us because a lot is lost in translation  
 **Catherine**
+
+{{< soundcloud 999065755 >}}
 
 Catherine:[‘There’s a huge assumption that people have the technology required’](https://soundcloud.com/iriss/cath-tech/s-A8CRuqq5L7L)
 
@@ -510,7 +538,11 @@ In supporting people working in the community in an impoverished part of Glasgow
 > In working in] one local community in Glasgow that faces many challenges (eg poverty, organised crime, violence and an elevated need for food banks). The purpose of these focus groups was to invite people to tell us what they needed and have open conversations about what effective support in the recovery from the effects of COVID-19 would look like for them  
 **John and Kirsty**
 
+{{< soundcloud 999067765 >}}
+
 [Wilma: ‘Can the school support our social life?’](https://soundcloud.com/iriss/wilma-safetysocial/s-o1dHe5FgwL1)
+
+{{< soundcloud 999069109 >}}
 
 Wilma: [‘We all walk through that door with the same risk’](https://soundcloud.com/iriss/wilma-leadership/s-mFZqwhpyz3I)
 
@@ -544,6 +576,8 @@ The importance of organisational culture and clear and careful communications be
 **Paula**
 
 There was also evidence of continuation in **improved communication** and **strengthened relationships** between organisations (Katy). A sense of ‘camaraderie’ was identified in feedback to one programme which brought together organisations within one locality (John and Kirsty). The sharing of regular updates from local and national government remained important to sustaining a collective understanding of levels of risk and current regulations (Sandy, Don).
+
+{{< soundcloud 999069475 >}}
 
 [Don: ‘It’s connected up all these organisations who must feel isolated’](https://soundcloud.com/iriss/don-comms/s-xo0QqEGIoX0)
 
@@ -580,6 +614,8 @@ In the school context, the anticipation of children and staff being re-confined 
 The latter two examples were from managers.  A further issue collectively identified by several managers in the project was the challenge of juggling and re-juggling the needs of different groups of staff, people using services and their families. Some referenced the need to attend to the changing needs of their own families (Catherine, Wilma, Don, Hilda).
 
 Emotions were closer to the surface. Storytellers described colleagues crying in team meetings (Julie), crying with people who use services (Maggie), and the recognition that ‘allowing vulnerabilities to be shared is crucial’ (Catherine). Perhaps because of the continued emotional toll of the pandemic, there was more emphasis on the importance of self-care in the later stories (Maggie, Donna, John) as a way to avoid being ‘sucked into a black hole of burnout’ (Alexandra).
+
+{{< soundcloud 999069775 >}}
 
 [Catherine: ‘Every now and again you feel overwhelmed’](https://soundcloud.com/iriss/cath-selfcare/s-OTECLEAfWF8)
 
@@ -670,6 +706,8 @@ Many of the items that feature in this list are echoed in the findings of the In
 
 In Sandy’s story the concept of a [‘shared experience approach’](https://soundcloud.com/iriss/sandy-sharedexp/) captures the fact that the barriers between staff and supported people became much lower during the pandemic.  The fact that we are all vulnerable and interdependent at various times in our lives became much more apparent; we all faced similar risks, restrictions and responsibilities in the face of a silent and invisible, but powerful threat.
 
+{{< soundcloud 999062086 >}}
+
 [Julie: ‘Strength and courage is in being vulnerable’](https://soundcloud.com/iriss/julie-vulnerability/s-HYLPEacFlsH)
 
 The core personal outcomes captured in our wordcloud were equally relevant to supported people, unpaid carers and staff, albeit to varying extents and at different stages of the crisis.
@@ -759,11 +797,13 @@ In conclusion, we give the final word to our storytellers who described their ke
 > I’ve learned again that necessity is indeed the mother of invention. I’ve learned that I don’t want to wait for the next global crisis before thinking to myself, I wonder if we could do this differently?  
 **John**
 
-# Acknowledgements
+# Credits
+
+## Acknowledgements
 
 Many thanks to those who shared their stories, those we interviewed and workshop participants. Special thanks to Emma Miller for analysing, co-producing and curating the stories. Thanks also to the Scottish Government for funding the Personal Outcomes Network which enabled the story project to happen.
 
-# Credits
+## Production Team
 
 * Stories collected by Emma Miller (University of Strathclyde and the Personal Outcomes Network)
 * Written by Ellen Daly (Iriss ) and Emma Miller
@@ -815,3 +855,113 @@ Many thanks to those who shared their stories, those we interviewed and workshop
 * Theresa Fitzsimmons, Manager, Buckreddan Care Centre
 * Will Griffiths, Programme Manager, Scotland Reducing Gambling Harm,  The ALLIANCE
 * Wilma O’Donovan, Headteacher, Highpark Primary School
+
+# Audio Transcripts
+
+## Alison: You have to have trust and courage
+
+So, that’s one of the big things that for me as a leader, you have to have. You have to have trust and courage and I have in the past have had, probably, the audacity to think that I was really the only person that could make a difference in this patient’s life because here I was. I could fix blah de blah and actually, you’re miniscule in that whole scenario. And you know, having the trust and courage to think that every single person has something to offer, every single person. We’ve just packed 1600 jolly boxes and there’s 2 particular of my helpers, Muriel and Doris, now without their organisational skills, that would not have happened. So, I very quickly pick up on people’s skills and think they’ll be great at that, they’ll do that and then just then hand it right back over because people have got skills, experience, knowledge and all of that. They just don’t need to be a health professional or wear some badge in order to be able to offer those.
+
+## Alison: I lot of what we did changed overnight
+
+A lot of what we did changed overnight, immediately stopped because you couldn’t connect with people and that’s all we’re about was just reducing social isolation and connection and loneliness. And overnight we had to rethink on our feet, what are we doing? How can we do this? So, we had the back home box service in Inverclyde Royal and on discharge, the nurses would give a box to anyone who was going home who lived on their own. But what we were getting, we sat round the table with other members of the community or leaders of organisations and said, “What are you going to do? What are you going to do? What are we going to do?” and “How can we tie it up that we’re not repeating things.” So, we ended up delivering boxes out into the community, like helping hand boxes or isolation boxes in a way that we hadn’t before but what we did was, we thought, “Well how can we do that safely?” so, it was just a kind of taking on board the Covid guidelines of what we were allowed to do and then tweaking it a wee bit and saying … but not abandoning people, you know, not just leaving the boxes at the door. Yes, you did that on occasions but you know, you’re checking out with people and saying, “Are you doing okay?” and you’re having a conversation so there was that personal part but you were keeping yourself safe.
+
+## Alison: The relationships were there before
+
+I think the relationships were there before but we had never really, really worked in the way that we worked through Covid. Two good examples of that would be: because we weren’t doing No One Dies Alone because we weren’t allowed into the hospital, I had probably about 49 of my companions who were wanting to still help. So, Your Voice had the resource that they could help man phones, well not man phones but they could coordinate a telephone befriending service, a friendly service. So, I provided the volunteers, the helpers, the companions to phone the people and got the names of the people to phone and then Sean at Your Voice just coordinated all of that and contacted who was to phone who. So, that was a real good example of how 2 organisations used their resources to come together to provide a benefit to the community and the other thing was the prescriptions. So, we teamed up with CVS and again, they coordinated what prescriptions was to go where and I provided the people to go and get the prescriptions and that was a … so, it was great, the partnerships were great and there was definitely no competition.
+
+## Catherine: It’s about being more open minded about how people react to things
+
+I think it’s about being more open minded about how people react to things and the impact that it’s had on people because within one team you could have a huge range of differing views about, say rigidity of sticking to rules, almost. Not that I’m suggesting everyone’s breaking the rules but that one person might be much more anxious, for example, about the thought of catching the virus and the spread of the virus and show a lot more anxiety in the way that they work but the anxiety doesn’t show as anxiety, it might display itself in, I don’t know, maybe being slightly hostile or short tempered or these kind of things and I think one of the big learning curves for us all was that if people are acting maybe a wee bit out of character, let’s think about why that is rather than reacting to, I guess, the emotion that they’re displaying at that moment in time and that goes for other disciplines or people in other departments that we’re working with and the patients that we see, obviously. That’s been a huge one I think about being a wee bit, I suppose, trying to mentalise more about what’s going on for people.
+
+## Catherine: Every now and again you feel overwhelmed
+
+I think we’re all kind of feeling that we’re kind of … every now and again, you get a wave of like, most of the time you feel, it’s going to be okay and we’ll get through it and it’s … you know this is, it was expected and every now and again you get a feeling of feeling really overwhelmed and I guess it’s about the whole self-care thing and just grounding yourself and reminding yourself that we can’t change how this is so its about, what can we do to look after ourselves and look after other people? And try and keep everyone afloat really because it’s easy to, I guess, go on a downward spiral but it’s about how to help ourselves to help other people to self-care, to keep going and I guess, making goals is a big thing.
+
+## Catherine: What we’re seeing is more staff distress
+
+First lockdown, it was really interesting actually because our referrals just fell off the edge of a cliff. People were literally not coming to hospital so in some ways there were maybe advantages to that, maybe were people managing care a bit better themselves but the alarming side of it was, were people coming away because … not coming to the hospital because of the virus and actually becoming really ill. Now we did really worry, in terms of people who we knew were at home who were struggling with alcohol. Were they becoming really unwell at home when they should actually be presented to hospital? But while that occurred, we kind of changed our, I suppose, our way of working and offered staff support. So, that was for more people who were working on wards at the emergency department in the sort of acute setting of people who were coming with Covid symptoms and nursing people with Covid. So, we saw a lot of staff actually who for some people it was directly linked with work, just the stress about what they were dealing with day to day and what they were seeing. A lot of fear and anxiety about how it was going to be, worry about family, but it was also what emerged was that for a lot of people it was a re-emergence of maybe things that they’d struggled with in the past which had kind of come to the fore again because of the anxieties around the, I guess, global anxiety. And then when the lockdown started to ease off, our patients started to trickle back in and then since then we have been really, really busy because the affects of Covid, I guess, we had such a huge impact in other ways on people that people have really struggled so, we’ve got a lot of people coming in who are new drinkers. So, that would be maybe somebody who would go home and have a glass of wine after work at night, say they were furloughed, so they would maybe have their glass of wine a bit earlier because that structure wasn’t there anymore and then just that inevitable earlier in the day, more and more and then getting into difficulties or people who maybe had been abstinent a long time, relapsed under different stressful situations and also sort of real chronic dependent drinkers were becoming more and more ill and at the moment that’s what we’re seeing. We’re seeing a lot of people coming in, in acute alcohol withdrawal with really severe withdrawal symptoms. A lot of people who’re very liver ill, really unwell and jaundiced and a lot of younger people which is quite alarming but what we’re also seeing now since the most recent lockdown, just a week or so ago, I think it was anyway, what we’re seeing is more staff distress again and I think, that’s because the first one was a kind of unknown so everyone kind of carried on, on adrenalin and kept going and kept going and kept going whereas I think everyone now is really, really fatigued and you know what’s coming and I think that’s very kind of distressing for people and people just feel absolutely washed out with it. So, we’re starting to see more kind of need for staff support again but there’s not a drop off in how many patients we see, that’s actually on the increase for everybody.
+
+## Catherine: There’s a huge assumption that people have the technology required
+
+Although we can’t keep connected in the normal ways that we would, it’s about how do you kind of work your way around that and do things in a different way, I suppose, so you’re still connecting with people. And that’s something that I really emphasis strongly with our patient group because they could feel so isolated anyway that this is really crippling for them. So, it’s about helping people and actually on that note, there’s a lot of community organisations now who provide people with iPads so that they’re able to do zoom calls or WhatsApp calls and keep connected with people and it also means that they can contact that charity if they’re struggling and they need to talk, that kind of thing. So, I suppose, because a lot of people don’t have … I think there’s a huge assumption that everyone has all the digital technology that’s required. Some people have nothing, so there’s a kind of quite a disparity there as well. So, it’s all very well saying, you know that you’ll do a Near Me call to somebody but they might not even have a mobile phone but there’s an assumption that they do
+
+## Don: It’s connected up all these organisations who must feel isolated
+
+Communication is key both internal and external so, we’ve talked about that, the importance of having regular communication with your team, effective communication. So, it’s about that face to face and it not always being about work related, it can just be the bit of social contact is really important. But I think also externally it’s about making sure that you’ve got good channels of communication with your stakeholders so that you can be really alert to the difficulties and challenges that they’re facing and be able to respond to that quickly and I think that’s where our technology has been good that we’ve been able to do that. So, we use Teams in terms of a lot of our internal communication, it gets it off Outlook, it gets it into our one stop shop but we use things like Facebook Workplace for our external networks and that’s been really important just to … cause it’s also connected it up, all these different organisations who must feel quite isolated in what they’re doing but it’s allowed them to connect together compare and contrast what’s happening in different parts of the country, share knowledge and experience which has been really vital and it kind of lists their energy as well.
+
+## Don: Two words that spring to mind are energy and horizons
+
+The two words that spring to mind are energy and horizons. And I’ll just quickly explain, energy is about in a leadership role, you’ve got to maintain your energy because I think when you’re working with other people, whether it’s your team or your other stakeholders, it’s important that they feel that you have some energy. That you haven’t given up or you’re exhausted and you just … so, you’ve really got to dig quite deep sometimes but really start, you know when you open up a meeting, a zoom meeting or whatever you’ve got to really dig deep and show that energy because I think other people are able to draw that energy from you sometimes and it kind of helps them. And I hadn’t perhaps appreciated that fully but the implications of that are as you as a person, somewhere you need to get your energy as well and I think having a good board of directors is really important and leaning on them, I think, at times like this has been really critical as well. And the second thing was horizons, it’s about giving people horizons to aim for and then just helping people to prioritise their work in order to get to that point so it’s about a bit of troubleshooting with your staff to make sure that they’re not being unrealistic in what they can achieve but also having some tangible things that they can work towards so that they can actually see, you know tick off these things as they go along, they feel like they’re actually making some progress so, I think that’s really important but I think what we’re finding with the pandemic is the horizon keeps changing.
+
+## Don: Hopes for the future
+
+On the hope side of it, I think, I would hope that the fact that carers have not had access to their normal short breaks and respite services that people are very much awake to the significant impact that that has had on their health and wellbeing. You know, unfortunately before Covid, it has to be said, that there probably wasn’t enough sufficient supply of short breaks anyway but you go into a pandemic and suddenly anything that was there is removed and families are faced with coping, 24/7, at home, without that sort of normal access to the support that they had previously. I mean, I know there’s been some wonderful examples of how services have adapted to that and are providing remote online support and garden activities and you know, opportunities to get people out for a walk and things like, that’s been wonderful but I think that has to be seen as a sort of temporary response to an urgent situation and I think as we emerge from this, I would hope that there is an understanding from our colleagues in health and social care both at local and national level that this is not sustainable, that form of support will not be sustainable in the longer term. We need to look at ways of putting back those kind of substantial packages that people were needing in the past and even those that perhaps weren’t able for those packages, I think we need to revisit that because, you know, the impact of this pandemic on their health and wellbeing will have been absolutely significant and we’ve got people in mental health crisis at the moment because of it and I’m not sure that information is being communicated strongly enough. I don’t see it sort of in the news as much and you know, understandably we see the impact on health and social care staff, we see the impact on hospitals and things like that but I’m not really hearing much about the impact on people who are having to cope at home, caring for people who have had no access to services or support. So, I think my hope is that that there will be a real effort, there will be strategic leadership on this issue to look at what can be done to support people as we emerge from this pandemic and give people access to the breaks that they will need, not just on a short-term basis but on a much longer-term basis.
+
+## Don: There is no one size fits all in this sector
+
+What we know and what we’ve learned from 30 years of being involved in this sector is that there is no one size fits all approach in this sector. You know, carers, even though we have this sort of label of carers, they’re individual people with different needs facing different challenges and with different aspirations and when it comes down to short breaks and respite care it’s very much about what is important to those people in terms of what they would like to achieve from those kind of opportunities and it has to be about individual personalised outcomes and that, you know, that’s really what we’ve learned over the past period is that when you actually respond to people in that way, so rather than telling people, “Here’s the service that we can give you.” But actually, sitting down and having a conversation with people about what is happening in their life, what’s important to them at the moment and what the sort of outcomes that they would like to see from the support or service that might be provided to enable them to have a break from caring, is absolutely key to making sure that people are able to sustain their caring role but also not at the expense of their own health and wellbeing.
+
+## Don: Put that rule book aside
+
+Where there’s been that need to just put that rulebook aside and give frontline workers a bit more scope to fix things, you know just make their decisions, we’ve seen some really amazing things happen. I guess, my fear going forward is that rather than learn from that and look at how we can develop that, it kind of gets pulled back, they get pulled back in and all that scope to be flexible and responsive is just taken away from them again.
+
+## Don: We’re a close knit team
+
+One of things that we were very concerned about was that, you know, it’s quite a close knit team, we all work in a single office, there’s 6 of us, we’ve known each other for quite a long time now so, we’ve got that sort of social capital that we’ve built up and you know, what would suddenly happen when we were all dispersed and working remotely and how would we communicate, how would we sort of coordinate our activity and the rest of it but one of the first things that we did and we’ve actually sustained this throughout the whole period, was to have from day one was to have a, what we call a team cuddle. And you know, to begin with it would just be sort of 15 minutes or so, it’s the equivalent of that water cooler chat or kettle chat that you would have when you arrived in the office in the morning but you suddenly realise how important these things are in terms of team cohesion because when you take it away suddenly you feel quite isolated and remote from everybody so, I think those opportunities were a chance for people maybe to talk about if there were any anxieties that we could sort of share that amongst ourselves but I think more importantly it was about that sense of keeping the team together and making sure that people felt that they weren’t isolated from that team, that sense of sort of team work and team gelling that we were actually able to connect on a day to day basis. So, I thought these things may gradually, that we may not feel the need to meet on a daily basis and eventually we’d get a bit fed up of doing that every morning but actually I think the team has said that they really value that so, there may be one day a week that we’ll make it much more sort of work focused and we’ll talk about the different cases of work that we’re involved with and how we can help and contribute to other people's work but you know for the rest of the week it would just be a general catch up, check in, just see how people are doing.
+
+## Julie: Information was relatable and human
+
+So, it’s a very sort of practical thing of when lockdown first came into being, Mark Hoolahan who’s our Chief Exec, started doing the … at the time I think they were almost daily updates because the pace of information was such that we needed to do that. And I have to give a shout out to my colleagues in the communications team because Sam Hunter and Claire Stephen who, they take kind of Marks words and they help him shape that into a language and message that really connects with people. So, the 3 of them working together, and they would take … I think the thing that really worked was they would take information that was necessary to communicate but they did it in a way that was still very relatable and human. So, it wasn’t just like, “Here’s the bullet points of what you need to know today.” It was always in the context of, “How are you doing? Keep talking to us, we need to hear your stories, we need to know how you’re doing and here’s some information that we hope will be useful to you.” So, initially it was like daily updates and then, I guess, as the pace of information slowed slightly, it became maybe once or twice a week and that’s still the case. They still do updates once or twice. But also, what they’ve done to that communication is we have, every week we have a meeting, that are called our contingency planning meeting which is around, obviously, all the new information around Covid and we also have our strategic leaders meeting. So, those both happen weekly and in both of those meetings there’s always a very active discussion around, and so what are we sharing? What needs to go into the update? How do we communicate that in a way that it’s going to work for people? So, I think, you know, Thistle has a commitment to transparency and communication and this is taking it, this is about, okay so we need to make this work during this time.
+
+## Julie: Hopes for the future
+
+Guess that we hold on to that vulnerability and that ability to, as you say, not to be in a relationship where I’m the practitioner and therefore I’m sort of sorted and you’re the person seeking support and you’re the vulnerable person in this relationship but rather that we meet people human to human and that the whole personal outcomes approach really is at the heart of that because if you meet people based on what matters to them and who they are, their skills, their experience or their knowledge, then you can connect human to human that encourages you to be in that more, the supporter role, that facilitative role rather than the fixer role and I think it … and then you’re much more … you know it’s about a partnership and collaboration rather than that power dynamic. My hope would be that that we hold on to that, that we don’t resurrect the barriers and I think that the barriers, not just in terms of between people who are offering support and people who are being supported because we’re all in those roles at different times in our lives but also the barriers between different professions and sectors because those have, also I think, you know there’s been a big … and again, I think this comes through from lots of the stories is that there’s this sense of we need to get this done, we need to make the difference that we need to make and actually the red tape and what would previously have gotten in the way of, “Oh, I need to consult and I need to get permission.” It’s like, no, just it needs to get done, so do it and do what you need to do in order to make that happen. So, I guess that would be the other hope is that those barriers don’t get resurrected between sectors and professions again.
+
+## Julie: Personal outcomes has helped me articulate my values in practice
+
+I think like a lot of people, I’ve been on a real journey probably over the last 15 years and I think for me personal outcomes has helped me to articulate my values in practice. I think until I had the language around being able to say what matters to me in the work that I do, is that I’m supporting people to make the difference in their life that they want to make so I’m focused on what matters to them otherwise what’s the purpose of me being in anybody’s life? It’s like you have to be really clear on connecting to what matters to people and also connecting to who they really are, all of their gifts, their strengths, their stories, their experiences, their knowledge, their skills, is just for both the person that you might be supporting but also for me is just such a constructive, positive and nurturing way to work, do you know, it really feeds me. It keeps me going in what are very challenging times.
+
+## Julie: Strength and courage is in being vulnerable
+
+I think that you need to be anchored in your purpose and in your values that that’s what keeps, well it’s what’s kept me resilient, it’s what has kept me focused. If you’re clear on your purpose and you’re clear on how you want to do it, doing it in a virtual world, it then becomes a bit, well how does this show up in a virtual world? It doesn’t mean, how do we need to redesign everything that we do? It’s like okay, we know what we need to do, we know what our purpose is, now we need to think about, well how does this show up on zoom, on Teams, being really clear and consistent in living your values and holding to your purpose that allows, yeah, it just allows the humanity to come through, it allows people to show up as who they are rather than like oh well, game face on, it’s like no, it’s okay to be struggling, it’s okay to be cheerful and allowing that to happen, that’s adding to people’s resilience because it's this false idea isn’t it? That strength is not showing how you’re impacted but actually I think what I’m continuously learning is strength, I mean I’m thinking of Brené Brown, about vulnerability, you know actually strength and courage is in being vulnerable and is showing up and being seen as who you are and I think in many ways the pandemic has allowed us to do that in a way we probably have never done before because we don’t have, it’s almost like we don’t have the energy to pretend otherwise, it’s like this hard and I’m showing up, yeah, just there’s no façade around that I think.
+
+## Julie: I feel like I’m fully living the values
+
+As I’ve moved through my working life, I think my sense of how important values are has increased, increased, increased and I think now I’ve come to a place where I feel like I’m fully living the values. And that’s partly I think to do with just the way our understanding of personal outcomes have evolved as well but in terms of the importance of working to our values I think it’s provided an anchor for us through unprecedented times. So, that whenever we’ve kind of gotten caught in the complexity and newness of what’s coming at us, to come back to what is it we’re about? What’s our purpose here? And our purpose being absolutely informed by the value of we focus on what matters to people and we focus on the person, the whole person. And when you come back to that, it really helps you to navigate that complexity so, I think it provides an anchor point in terms of complexity but it also, I think the other thing about living the values, is it’s not just about living the values in relation to people that you might be supporting, it’s about living the values in relation to the whole way that you work so, your colleagues, and systems that you create so, I think part of what I notice in the last few months is that the humanity in focusing on what matters and working with our strengths has also really come to the fore in the terms of how we work together as colleagues. So, as well as it absolutely being front and centre with people that we support, it’s also more and more informed how we have related to each other through this really challenging time. Allowing people, the chance to say, I’m really struggling, this is really hard and to hear that but then continue to … but then to reconnect with purpose, to reconnect with but this is what gets me up in the morning because I make a difference in people’s lives and as a result of that, I’m still here, I’m still showing up and still working through this.
+
+## Keir: Providing that safe online environment has been absolutely indispensable
+
+The first one there is really making sure that we’ve provided a safe environment for people to share online for the people with lived experience but also that environment has been safe for professionals to come into that environment and to be able to find safe ways of exploring answers to quite complex questions around issues like developing bereavement support services for people who have lost folk to suicide around how do we support children and young people with complex needs who have self-harming and suicidal behaviours, around what are the training needs for examples of professionals to support people who are suicidal, in their professional roles. So, providing that safe online environment for us has been absolutely indispensable to be able to continue this work because without it, the work would have ground to a complete halt or more or less a halt. So, for us, some of the key ingredients of that safety online approach has been around making sure that our panel members are absolutely clear what’s being asked of them in advance of it, making sure that they know that there’s proper trained emotional support before, during and after the events, making sure that people who are engaged in online work know that it’s okay for them to opt out of the zoom calls, if they want to give written submissions or give their answers to questions over the telephone, in other words you have more than one way to creatively involve people in online engagement. And we’ve been very mindful during the pandemic and this is, I think something that certainly affected me is that, being aware that people on the panel, like everybody else have lives, they have families, they have jobs, and they’re affected by this pandemic and their moods, understandably, like everyone else’s will fluctuate and go up and down and it’s normal for that to happen in this kind of context for people’s mood to fluctuate and be volatile so we’ve had to literally think through each stage of involvement and be prepared to be flexible and listen to people on this panel about how we keep them safe while they’re sharing their stories and part of that’s being allowing them to opt out when they feel like they’ve got too much on in their own private lives or to find different ways that they can make a contribution so, we’ve had to really learn a lot about technology but also about the need to be flexible and be aware of what’s happening in the background for people on the panel.  
+
+## Keir: Hopes for the future
+
+Oh, I’m hoping that gradually we’ll move to a sort of a more blended approach of moving from the now entirely online existence back to some face to face engagements to planning some events that are safe and my hopes are that as we move into a period where we have, now a couple of vaccines, that we’re able to pick up this work and actually get into communities now, to get into workplaces, to get into the types of spaces that we need to reach in order to get the message around suicide prevention, combatting stigma around mental health and creating that space in actual real communities for people to come together so, I suppose that’s my great hope that we’ll be able to move back to our, some of our original plan of organising some events and pulling communities and professionals together to discuss how we take forward the huge challenge of the current mental health emergency in our society in Scotland and indeed that we’re able to play a role in reducing suicide in Scotland. So, I’m optimistic that some things will probably never change but I’m looking forward to a more blended world post-Covid where we actually use some of the strengths and technology in some of the new ways of operating and reaching people in rural communities, for example, routinely through zoom meetings or online consultations that we would not have been able to do before and combining that with getting back to actually face to face, looking at people, talking to them, checking in with them, seeing how they are cos there is probably my final comment would be, however much we’ve adapted to the online digital world, and I think there’s still room for improvement there also, it’s no substitute for the actual face to face support, it’s no substitute for also when people are sharing traumatic experiences, being able to have a cup of tea with them and talk it through with them and get a sense of how they’re feeling. So, let’s get back to the post-Covid world bit, there’s some great things that we’ve learned about technology and online engagement that we will take with us into that post-Covid world, hopefully sooner rather than later.
+
+## Keir: ‘Who cares for the carers?’
+
+The phrase that I normally talk about is the issue of who cares for the carers? So, when we are doing this important work, it’s traumatic, it can be distressing for people sharing their very private emotional experiences but also being aware that folk are living under very unusual and surreal circumstances. We need to take care of ourselves so, we will regularly check in with our support team who’s involved in this panel, we will regularly apply some self-care techniques to ourselves so, we will look at what are we doing in terms of the pacing of our events, how regular we meet in, and just checking in with colleagues, supportive colleagues to make sure that we’re okay. It doesn’t have to be a highfalutin type of support it can literally be making sure that after each of our meetings we have a little 10 or 15 minute debrief with our panel members about how they’re feeling but also I do that with my colleague, Derek, and we also do that routinely with our steering group. So, I’ve got people that I can lean on if I’m dealing with particularly difficult circumstances or difficult events going on in people’s lives who are on our panel so we just have to be mindful that we need to look after ourselves, and create support networks when we’re doing online engagement and also that, my final point here, is that sometimes that might have to be some formal support and supervision, I’m strongly in favour of when you need to have sort of proper support, so that might be accessing your employee assistance programme yourself, if you’re feeling particularly stressed but I think more routinely it’s about having in place clear protocols that you routinely debrief after significant events, that you have open communication channels to your line managers and indeed that you have access to a range of decent wellbeing resources that you can look at and refer to and build into the structure of your work. If you don’t do that, the danger is that you burn out, you burn other people out and actually you’re not meeting either the personal outcomes of the people who are involved or indeed the outcomes of the agencies that are employing me to do this work.
+
+## Sandy: It’s affected us all
+
+I suppose it’s something that’s hit us all with the pandemic and I think it’s taken everybody a bit by surprise even though we maybe had predictions about it. And even when it was anticipated what was going to happen with the restrictions, I think that the reality when that hits home, it’s affected us all. I don’t think that there’s anyone who hasn’t been affected by it. So, I suppose I’m thinking in terms of the course of our work when you’re contacting anyone, to accept right from the start that if I’m talking to you, right from the start you’re acknowledging that you must be going through a difficult time because I certainly am and my family are and I think its just a helpful way to, just to acknowledge that for everyone. It doesn’t have … I think having that acknowledgement about a shared experience can help as well. Help the person, put the person at ease and try to take away some of the anxieties because it’s such a stressful time and for people to try and make sense of it, very, very hard. It’s hard for us, for anyone to make sense of it.
+
+## Wilma: I’m conscious of the digital divide Covid has exposed
+
+I’m conscious of the digital divide that Covid has kind of exposed, for me, I didn’t think that that … we knew that Glasgow is a city of 2 halves at times and in some ways Covid has actually exposed first-hand the disparity between children who don’t have devices or Wi-Fi or parents that perhaps have to pay as you or try to do. You cannot do school work on this, it doesn’t work, it’s not … so, where I have tried to work with the My Community partners as well have helped with, you know United Communities, have provided laptops and Wi-Fi, Glasgow City Council have also provided us with more iPads for children so, we really have, one Covid has exposed it but, two, there’s been a real drive to actually ensure that that’s not a barrier to attainment or lack of learning online.
+
+## Wilma: Hopes for the future
+
+I’m hoping that parent’s that get a better understanding of what we do and I know families are finding it really difficult because again, employers are asking families to work and to educate their children. That is a task and a half and I’m hoping that as a profession parents understand sometimes there’s 20/30 children within the class and there’s a lot of plates to spin, we spin them in a classroom really, really well, we’re a profession, that’s what you would expect. We’ve got a code of conduct, we’ve got … you know, there’s layers to educating children, it can look as if it’s easy to do but it’s very difficult so as a profession, I hope we come out of it with added respect in terms of what we do.
+
+## Wilma: We all walk through that door with the same risk
+
+My staff have actually, I mean sometimes when you’re at my level, my role, sometimes people can just want answers from you, from me because of my knowledge and my skills, and actual fact Covid, has actually, my staff give me the answers about what would work, what wouldn’t work, what we need to see in a risk assessment that will make them feel safe. So, actually the communication and solution focused approach has really came forward in terms of my staff showing me or telling me what they think would be an idea. Before it was schools perhaps had a more hierarchical structure, obviously, you’ve got different … but in actual fact Covid has given us all … we all walk through that door with the same risk so, when people are thinking about safety, they’ve very much got a voice and it’s an equivalent voice in terms of what schools do and I think as well they know that I am kind of fair as well, I’ve tried to make sure that staff are protected and looked after and feel safe and that’s been a really difficult process in that time  but I certainly think my staff have risen to the challenge and actually wanted to be part of the support for the key workers and valuable children as well. I mean obviously we’re getting groups of workers like the NHS, like you know the fire fighters but you know like Tesco workers as well, we’re all … there becomes a bit of an equivalence to what we’re all doing. There’s no one group of people that are moving this pandemic forward, there’s loads of people that are all doing their bit to get us to a better place and I think one of the things as well is I said to my staff as well, Covid started in the spring and I suppose the spring is about light and things like that and I suppose we’re going to start to come out of it when it’s light, there’s something about that, you know that period and that new beginnings, new horizons, new feelings so I’m really quite … I mean I’ve went through a bit of a rollercoaster cos I thought in December we were kind of coming out of it and then obviously you know it was a handbrake … we did not see January happening that way, there was a bit of a handbrake … in terms of even leadership that really has to adapt within a first minister briefing. What we do can change in that instance and you know, it starts all over … it’s just the responsiveness of leadership at that level is … I’ve never seen it before in terms of having to really dig deep in terms of how we respond to what was being asked of us so, a few things in there, I think, to even think about. Covid has put a level playing field into people’s voices because if you … you know, and I think that’s what my staff know that they come to me and that is responded to immediately because it’s at that level where you need to listen very actively to your staffing.
+
+## Wilma: My role has been so different
+
+My role over this period has actually been so different, I mean headteachers are used to making really, decisions really quickly and with finance, with staffing, with pupils, with learning, Covid has actually stretched my job title to include almost anything at all with the boundaries of education so, my actual, my role has massively increased in terms of what skill base I think I have now. There’s been a bit of a revolution to my job and not just to my job, to all teachers’ jobs around Covid. We’ve moved from, obviously, last March from a situation where the school was open full time to the school closing and only being open for key worker pupils and families that I felt required support around their home life, which I’ll call valuable pupils, some people call them vulnerable: I prefer to use the word valuable because everyone is valuable in families. So, they were coming to school and then obviously schools stopped for the majority and that way we were just putting up work online and again we’re a profession that you actually trained to be a teacher because you love the classroom and we’re a profession actually that’s had to almost revolutionise our whole profession overnight, it’s been really quite a challenge as well for teachers to get quickly get the online remote skills.
+
+## Wilma: Can the school support our social life?
+
+One of the things I think before the children, when they returned, when the school came back and we were all back and the children had said, “Look, our social life has kind of went down the drain a wee bit here. Can the school support our social lives?” So, therefore we had like week-long Halloween activities, we had festive Fridays that went all through December, where the school really doesn’t … you know, schools are not just 9 to 3, the children are actually looking at the school for … it’s a place of safety, it’s a place where they meet their friends because that was all taken away from them so, they actually see a wider vision about the education system. It being about community, it being about friendships, it being about developing relationships, education is one part of that but there is so many more layers that Covid has exposed for us about what school means: seeing your friends, seeing your friend’s mums, mums supporting mums at the school gates. You know, it’s so much more than just the education process, the education process is absolutely crucial in terms of destinations for our young people’s lives but in actual fact when the children came back after the first lock down there seemed to be a gratefulness about being back at school. I mean sometimes children are like, “Oh, I don’t like school.” But actually, my school was happy and it was calm and it was safe and there was real feeling, I mean that’s … we’re going down the pathway of talking about school culture and ethos, that was in action when the children came back from Covid, that was culture … I mean culture is not tangible but you can feel it in your corridors when it’s right and I think when we came back, my school was incredibly calm and I would just have never have thought that because I thought these children have been out of education and yet there was just a gratefulness, a joy and that’s about leading a school with a positive school culture and have that ethos, I mean you know when that’s not in a school because you can feel it but my school was incredibly calm and safe and joyful. It was lovely and I’m sure when we all return it will come back again with that same cohesion. I mean, I think as well with remote learning what we’re trying to do is differentiated learning as well, tailored to children’s needs, we’re also trying to upskill family learning but we’re also trying to bring back a school community that’s still cohesive, even although we’ve not really seen each other, so what we’re doing now is we’re obviously we’re speaking to lots of families but it needs to be more tailored now so, we’re maybe looking at groups of parents but they’re AAL parent’s as well sometimes because we’ve not got translators, how do we make sure we’re connecting with all groups within our communities? And that’s another challenge but you know, I’m sure we’ll get our heads around that as well.

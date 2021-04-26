@@ -1,52 +1,44 @@
 +++
 title = "Introduction"
 subtitle = ""
-description = "A practical framework for supporting the writing of analysis in social care records"
+description = "Make sense of what COVID-19 crisis has meant for outcomes for people"
 url= "introduction"
-date = 2021-03-20T15:13:22Z
+date = 2021-05-01T15:13:22Z
 draft = false
 menu = "main"
-weight = 20
+weight = 10
 +++
-## Overview
 
-Welcome to the Iriss writing analysis online course. The aim of this course is to provide a practical framework for supporting the writing of analysis in social care records. This course aims to be relevant across social work domains.
+## About this resource
 
-This course has grown out of the recording practice project that Iriss has been running over the last two years. This project focussed on supporting social services practitioners to develop their skills and explore their ideas for improving their case recording. In 2019 we partnered with East Ayrshire Health and Social Care Partnership to look at the current strengths and challenges that social workers were facing in their recording practice. This practice-based research led to a new partnership with Scottish Borders Council social work teams which focused specifically on analysis in recording. Through a series of workshops, we explored practitioners' relationship with analysis and together we looked at how we could support people to improve their written analysis and feel more confident. This course draws on the insights generated from the Iriss project and findings from the [WiSP project](http://www.writinginsocialwork.com), a research project exploring professional social work writing.
+This resource brings together the learning from a collection of stories gathered by the [Personal Outcomes Network](https://personaloutcomes.network/the-personal-outcomes-network/) (PON) throughout 2020. It was developed to share stories of the experiences of those working across a range of sectors to keep a focus on outcomes for people during an extended public health emergency. By presenting a detailed analysis of these stories and how experiences evolved throughout the year, we’re able to make sense of what this crisis has meant for outcomes for people and draw out implications to inform practice, policy and recovery.
 
-## The aim and learning outcomes of the course
+This project collected the stories across three phases in 2020 which is reflected in the structure of this resource.
 
-The aim of this course is to provide a practical framework for supporting the writing of analysis in social care records. At the end of the course you will:
+* Phase 1: Response to crisis - spring / summer 2020
+* Phase 2: Continuity and endurance - autumn 2020
+* Phase 3: Looking to the future and recovery - winter 2020 / 2021
 
-1. Have become familiar with one practical framework for supporting the writing of  analysis
-2. Have considered some aspects of the language of written analysis
-3. Have reflected on your own practice of writing analysis
+The prompts in Phase 3 provide a practical aspect, helping you connect your experiences with those shared in this resource. Similar to our [Outcomes & Co tool](https://www.iriss.org.uk/resources/tools/outcomes-co), these could be used as a framework for conversations in supervision, team meetings, partner discussions or for individual reflection.
 
-Analysis is central to everyday social work practice and involves paying careful attention to what is going on in any situation in order to understand that situation and make recommendations for support. Analysis can, therefore, be thought of as an ongoing process: The Oxford English Dictionary defines analysis as ‘The action or process of carrying out a detailed examination; the methodical or systematic investigation of something complex in order to explain or understand it.’ Analysis is an ongoing **process** that social workers are engaged in all of the time.
+Use of this resource contributes to the following outcomes:
 
-Analysis is of course also a **product**, a written record which captures key aspects of all the different parts of the analytic process – the thinking, listening and observing that social workers do. The written record of analysis involves selecting the most important details from all these aspects and writing in a way that makes these understandable to many different kinds of readers. Moving from analysis as process – a part of almost every moment of everyday practice and involving a wide range of professional skills, intuition and expertise – to analysis as a written product is central to the securing of services and providing good care for vulnerable young people and adults. Producing written analysis can also be challenging for many reasons.
+* Increased awareness and clarity about an outcomes approach in general and in times of crisis
+* Improved understanding of the experience of those striving to work towards  outcomes for people through the pandemic
+* Improved understanding of the conditions which support practitioners, promote resilience and facilitate personal outcomes
+* Increased awareness and understanding of the implications of the stories to support planning and recovery from the pandemic
+* Increased awareness and knowledge about story as a form of evidence
 
-{{< box >}}As social workers you know a lot about analysis in social work writing. This course has not been designed to tell you how to do analysis. Instead we are hoping to offer you a chance to clarify how you think about your writing at work, and help you to spend some time reflecting on what exactly is involved in the writing of analysis in your everyday practice.{{< /box >}}
+## Evaluation
 
-## How does the course work?
+We’d love to hear your feedback on this resource, how you’ve used it and what, if any, difference it’s made. [This short survey](https://www.surveymonkey.co.uk/r/sharedexperience) will take five minutes and will be really helpful to inform future resource development.
 
-The course has eight units:
+{{< button href="https://www.surveymonkey.co.uk/r/sharedexperience" >}}Provide Feedback{{< /button >}}
 
-1. Thinking about social work writing
-2. What do we mean by analysis?
-3. Description
-4. Explanation
-5. Evaluation
-6. Recommendation
-7. Representing the person’s view
-8. Writing as a process that supports analysis
+## Why it’s unique
 
-{{< notice tip >}}
-Each unit is made up of written explanations that cover the key learning and video recordings that give you more information and practitioners’ views, as well as practical exercises that you can complete online, or print and do at home.
+The COVID-19 pandemic prompted a keen interest in gathering research and stories about the impact of the crisis on those on the frontline (eg [Inspiring Care Stories](https://www.sssc.uk.com/careers-and-education/inspiring-care-stories/) and [Stories of Promise](https://www.thinklocalactpersonal.org.uk/covid-19/social-care-provision-stories-of-promise/)). What makes this collection unique is that it focuses specifically on an outcomes approach during the pandemic and evidences how practice has responded to keep this focus through the crisis. It also took snapshots at three different points during the pandemic. The first point was during the initial crisis response in the spring followed by the second wave in the autumn. In winter we carried out in-depth interviews with eight of the storytellers to unpack their stories further, and held a workshop in early February 2021 with PON members and some of the storytellers to sense check key themes and capture further experiences.
 
-It is designed to be worked through in a linear way but if you find you need to go away and come back, or dip into specific bits, then feel free to use in whatever way works best for you.
+This resource is also unique in the diversity of the storytellers.  As with membership of the PON, our 41 storytellers come from diverse sectors including the NHS; social work and social care; the third sector; care home sector; and primary and higher education. It also included a carer whose mother with dementia moved in during lockdown.
 
-The full course is available as a printable PDF, with space for you to try the exercises and take notes.
-{{< /notice >}}
-
-{{< button href="../files/iriss-writing-analysis-in-social-care-course-2021-03-21.pdf" >}}Download PDF version{{< /button >}}
+Where some collections bring stories together, this resource goes further by providing an analysis and drawing out implications. It also includes a practical aspect with reflective prompts, and film and audio clips to bring the stories to life.
