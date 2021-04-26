@@ -1,7 +1,7 @@
 +++
-title = "Acknowledgements"
+title = "Personal outcomes"
 subtitle = ""
-description = "A practical framework for supporting the writing of analysis in social care records"
+description = "Improved understanding of the experience of those striving to work towards  outcomes for people through the pandemic"
 url= "acknowledgements"
 date = 2021-03-20T15:13:22Z
 draft = false
