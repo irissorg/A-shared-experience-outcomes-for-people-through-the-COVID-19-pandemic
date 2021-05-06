@@ -33,7 +33,7 @@ The common humanity underlying **relationships and connection** of the earlier s
 
 {{< soundcloud 999383884 >}}
 
- [Catherine: ‘What we’re seeing is more staff distress](https://soundcloud.com/iriss/cath-servicechanges/s-epxgHT5Medg)’
+[Transcript for Catherine: What we’re seeing is more staff distress]({{< ref "09 transcripts/index.md#catherine-what-we’re-seeing-is-more-staff-distress" >}})
 
 ## Technology
 
@@ -46,7 +46,8 @@ With few exceptions most of our storytellers were still engaging with their coll
 
 {{< soundcloud 999065755 >}}
 
-Catherine:[‘There’s a huge assumption that people have the technology required’](https://soundcloud.com/iriss/cath-tech/s-A8CRuqq5L7L)
+[Transcript for Catherine: There’s a huge assumption that people have the technology required]({{< ref "09 transcripts/index.md#catherine-there’s-a-huge-assumption-that-people-have-the-technology-required" >}})
+
 
 ## Priority outcomes for people
 
@@ -101,11 +102,11 @@ In supporting people working in the community in an impoverished part of Glasgow
 
 {{< soundcloud 999067765 >}}
 
-[Wilma: ‘Can the school support our social life?’](https://soundcloud.com/iriss/wilma-safetysocial/s-o1dHe5FgwL1)
+[Transcript for Wilma: Can the school support our social life?]({{< ref "09 transcripts/index.md#wilma-can-the-school-support-our-social-life" >}})
 
 {{< soundcloud 999069109 >}}
 
-Wilma: [‘We all walk through that door with the same risk’](https://soundcloud.com/iriss/wilma-leadership/s-mFZqwhpyz3I)
+[Transcript for Wilma: We all walk through that door with the same risk]({{< ref "09 transcripts/index.md#wilma-we-all-walk-through-that-door-with-the-same-risk" >}})
 
 ### Mental health and wellbeing
 
@@ -140,7 +141,7 @@ There was also evidence of continuation in **improved communication** and **stre
 
 {{< soundcloud 999069475 >}}
 
-[Don: ‘It’s connected up all these organisations who must feel isolated’](https://soundcloud.com/iriss/don-comms/s-xo0QqEGIoX0)
+[Transcript for Don: It’s connected up all these organisations who must feel isolated]({{< ref "09 transcripts/index.md#don-it’s-connected-up-all-these-organisations-who-must-feel-isolated" >}})
 
 ### Persistent barriers linked to funding processes
 
@@ -178,6 +179,6 @@ Emotions were closer to the surface. Storytellers described colleagues crying in
 
 {{< soundcloud 999069775 >}}
 
-[Catherine: ‘Every now and again you feel overwhelmed’](https://soundcloud.com/iriss/cath-selfcare/s-OTECLEAfWF8)
+[Transcript for Catherine: Every now and again you feel overwhelmed]({{< ref "09 transcripts/index.md#catherine-every-now-and-again-you-feel-overwhelmed" >}})
 
 {{< vimeo 524792249 >}}

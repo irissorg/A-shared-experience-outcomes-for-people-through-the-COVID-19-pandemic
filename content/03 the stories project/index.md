@@ -3,6 +3,7 @@ title = "The stories project"
 subtitle = ""
 description = "Make sense of what COVID-19 crisis has meant for outcomes for people"
 url= "stories-project"
+featured_image = "../images/blue.jpg"
 date = 2021-05-01T15:13:22Z
 draft = false
 menu = "main"
@@ -57,7 +58,7 @@ The following sections provide a breakdown of the stories by sector, place and r
 
 Stories came from across the sectors of the PON membership, predominantly from those working in a very diverse range of third sector organisations.
 
-[PIE CHART IMAGE]
+{{< float loc="left" maxwidth="100" src="../images/sector-8.png" alt="Story origins by sector: Unpaid carer 1,Public body 1,Private company 1,Independent Care Home 1,Government agency 1,Education 3,Statutory agency 6,Health / NHS 6,Third sector 19" >}}
 
 ### Roles
 
@@ -78,4 +79,4 @@ Stories were submitted from people in a range of roles including:
 
 This map shows where the stories came from geographically and includes some of the locations of workshop participants.
 
-[MAP IMAGE]
+{{< float loc="left" maxwidth="100" src="../images/place-8.png" alt="Story origins by location: Stirling 1,Shetland Islands 1,Renfrewshire 1,North Lanarkshire 1,North Ayrshire 1,East Renfrewshire 1,Dumfries and Galloway 1,Aberdeen City 1,Falkirk 2,East Ayrshire 2,Inverclyde 2,Midlothian 2,South Lanarkshire 2,Dundee City 3,Fife 5,City of Edinburgh 5,Glasgow City 11" >}}

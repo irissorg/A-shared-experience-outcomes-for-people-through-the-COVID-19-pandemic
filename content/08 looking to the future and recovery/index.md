@@ -12,7 +12,9 @@ toc = true
 
 ## Summary
 
-In this final section we draw on the third and final phase of the stories project. At the end of 2020, we recorded interviews with eight of our storytellers.  We invited individuals from diverse sectors (health, social work, third sector, education) and roles (staff involved in direct support, team leaders and senior managers) to contribute. We asked them to reflect on key messages from their earlier stories, learning and hopes for the future. Then, early in 2021 we hosted a workshop for PON members – 30 attended and contributed to this resource and added some of their own experiences of the pandemic, which are also included here. This section combines stories from phase 3 and findings from the wider project with suggestions about what needs to be built on and the importance of a trauma informed response to recovery.
+{{< rawhtml >}}
+  <img style="shape-margin: 20px;float:right;max-width:30%;shape-outside: url(../images/heart.png);padding-left: 1.5rem !important;" src="../images/heart.png" alt=" " />
+{{< /rawhtml >}}In this final section we draw on the third and final phase of the stories project. At the end of 2020, we recorded interviews with eight of our storytellers.  We invited individuals from diverse sectors (health, social work, third sector, education) and roles (staff involved in direct support, team leaders and senior managers) to contribute. We asked them to reflect on key messages from their earlier stories, learning and hopes for the future. Then, early in 2021 we hosted a workshop for PON members – 30 attended and contributed to this resource and added some of their own experiences of the pandemic, which are also included here. This section combines stories from phase 3 and findings from the wider project with suggestions about what needs to be built on and the importance of a trauma informed response to recovery.
 
 On reflection, the stories tell us that the pandemic challenged previously fixed ideas of what is possible, as well as assumptions about the capacity and resilience of the workforce and people accessing support.  It put a spotlight on existing issues which were thrown into sharp relief and exacerbated by the crisis; particularly social isolation, poverty, inequalities, mental health and the digital divide. There were also disproportionate impacts on people from black and ethnic minority communities, including high numbers working in health and social care.  Equally, it highlighted untapped reserves of kindness, common humanity, relationships, trust and extraordinary responses within local communities. What matters to people, captured by personal outcomes, takes on new salience with striking similarities between the outcomes important to supported people, unpaid carers and staff.
 
@@ -63,7 +65,7 @@ On balance what emerges from the project is a story of very significant change a
 
 ## What practice and approaches need to continue?
 
-Storytellers highlighted the new ways of working, new ideas and approaches seeded in the early days of the pandemic, that allowed outcomes to be achieved for people. In the first phase, the outcomes were determined by a shared sense of the need to keep people safe, well and connected during the initial crisis response. In the second phase, it was clear that increased emphasis was being placed on more personalised outcomes, based on learning from phase 1 and in response to additional efforts to engage directly with people through phase 2.  Collectively the stories identify key features that should continue to be nurtured:  
+Storytellers highlighted the new ways of working, new ideas and approaches seeded in the early days of the pandemic, that allowed outcomes to be achieved for people. In the first phase, the outcomes were determined by a shared sense of the need to keep people safe, well and connected during the initial crisis response. In the second phase, it was clear that increased emphasis was being placed on more personalised outcomes, based on learning from phase 1 and in response to additional efforts to engage directly with people through phase 2. Collectively the stories identify key features that should continue to be nurtured:  
 
 * Supporting creativity and flexibility in practice
 * Blending use of technology - capitalising on benefits of reaching new audiences while rebuilding face-to-face contact for the many people who prefer and need this
@@ -81,7 +83,7 @@ Storytellers highlighted the new ways of working, new ideas and approaches seede
 * More direct access to resources and more autonomy for the Third Sector
 * Schools being places where wellbeing and resilience have parity with attainment
 
-Many of the items that feature in this list are echoed in the findings of the Independent Review of Adult Social Care (Scottish Government, 2021). Focusing on personal outcomes; flexibility; collaboration; valuing lived experience; developing trusting relationships; partnerships without competition; and shifting attitudes towards technology and data sharing, are all identified as vital to reimagining models of support.  
+Many of the items that feature in this list are echoed in the findings of the Independent Review of Adult Social Care (Scottish Government, 2021). Focusing on personal outcomes; flexibility; collaboration; valuing lived experience; developing trusting relationships; partnerships without competition; and shifting attitudes towards technology and data sharing, are all identified as vital to reimagining models of support.
 
 {{< notice reflection >}}
 
@@ -95,7 +97,7 @@ In Sandy’s story the concept of a [‘shared experience approach’](https://s
 
 {{< soundcloud 999062086 >}}
 
-[Julie: ‘Strength and courage is in being vulnerable’](https://soundcloud.com/iriss/julie-vulnerability/s-HYLPEacFlsH)
+[Transcript for Julie: Strength and courage is in being vulnerable]({{< ref "09 transcripts/index.md#julie-strength-and-courage-is-in-being-vulnerable" >}})
 
 The core personal outcomes captured in our wordcloud were equally relevant to supported people, unpaid carers and staff, albeit to varying extents and at different stages of the crisis.
 
@@ -112,7 +114,7 @@ The stories reflect an understanding of the intensified challenges as identified
 
 {{< soundcloud 999074569 >}}
 
-[Catherine: ‘It’s about being more open minded about how people react to things’](https://soundcloud.com/iriss/cath-behaviour/)
+[Transcript for Catherine: It’s about being more open minded about how people react to things]({{< ref "09 transcripts/index.md#catherine-it’s-about-being-more-open-minded-about-how-people-react-to-things" >}})
 
 A trauma responsive approach offers a way to think about recovery and the need for humanising systems, and supportive and reflective organisational practices. The idea of post-pandemic growth suggested in John’s story (and further explored in [this PON webinar](https://vimeo.com/433717583)) is adapted from the concept of post-traumatic growth or transformation following trauma. This is highlighted by Keir in his work with people whose lives have been affected by suicide:
 
@@ -135,9 +137,9 @@ What emotions did you experience during the pandemic? How did you feel about sup
 
 ## Reflections on storytelling and recovery  
 
-As well as the core aim of finding out about and sharing practice examples during COVID, the importance of stories as a way of connecting and engaging with and finding out what mattered most to people was an additional theme that emerged from this project. The multiple benefits of stories was identified in the following feedback from the workshop:
-
-[IMAGE]
+{{< rawhtml >}}
+  <img style="shape-margin: 20px;float:right;max-width:30%;shape-outside: url(../images/bubble.png);padding-left: 1.5rem !important;" src="../images/bubble.png" alt="bubble shaped word cloud" />
+{{< /rawhtml >}}As well as the core aim of finding out about and sharing practice examples during COVID, the importance of stories as a way of connecting and engaging with and finding out what mattered most to people was an additional theme that emerged from this project. The multiple benefits of stories was identified in the following feedback from the workshop:
 
 The interviews and feedback from our workshop in phase 3 confirm the importance of taking the opportunity to pause and reflect, and how this enabled people to clarify purpose and prioritise at different stages of the pandemic. That sense of using difficult experiences to help others was reflected by Keir’s story on the importance of the voice of lived experience but also by staff hopes to make things better for others, now and in the future. At the workshop storytelling was seen as very important for both people being supported and staff. For supported people and unpaid carers the importance of ‘time to let people tell their story in their own way’ was emphasised. For everyone, stories were seen as a way of people being able to be ‘seen, heard and feel connected.’  Several people wanted more support with storytelling skills and techniques, to promote recovery and wellbeing in their own settings.  Storytelling has an important contribution to make in achieving outcomes for everyone. There are, in turn, benefits to be gained from the listener or the reader of the stories in others, as one PON member described her response to the story collection:
 
@@ -158,7 +160,7 @@ This resource draws on multiple stories from practice:
 
 ### Hopes for the future
 
-Storytellers in phase 3 expressed their hopes for the future. These focused on a range of areas, again reflecting the diversity of the perspectives shared through the stories. For example, [Wilma](https://soundcloud.com/iriss/wilma-hopes/s-Pf8HzRlLo8C) talked about her hopes that teachers become better understood and respected as a result of their role during the pandemic. [Don’s hopes](https://soundcloud.com/iriss/don-hopes/s-c67HZi81Z5c) centred around an increased effort to support carers and give them access to the breaks they need. [Keir](https://soundcloud.com/iriss/keir-hopes/s-4s0BS4cEgBn)described a future with a more blended approach of online and face-to-face engagement and [Julie](https://soundcloud.com/iriss/julie-hopes1/s-vGpTWLVKZik) talked about a post-COVID world where barriers and boundaries between people have not been resurrected.
+Storytellers in phase 3 expressed their hopes for the future. These focused on a range of areas, again reflecting the diversity of the perspectives shared through the stories. For example, [Wilma](https://soundcloud.com/iriss/wilma-hopes/s-Pf8HzRlLo8C), [(Transcript)]({{< ref "09 transcripts/index.md#wilma-hopes-for-the-future" >}}) talked about her hopes that teachers become better understood and respected as a result of their role during the pandemic. [Don’s hopes](https://soundcloud.com/iriss/don-hopes/s-c67HZi81Z5c), [(Transcript)]({{< ref "09 transcripts/index.md#don-hopes-for-the-future" >}}) centred around an increased effort to support carers and give them access to the breaks they need. [Keir](https://soundcloud.com/iriss/keir-hopes/s-4s0BS4cEgBn), [(Transcript)]({{< ref "09 transcripts/index.md#keir-hopes-for-the-future" >}})described a future with a more blended approach of online and face-to-face engagement and [Julie](https://soundcloud.com/iriss/julie-hopes1/s-vGpTWLVKZik), [(Transcript)]({{< ref "09 transcripts/index.md#julie-hopes-for-the-future" >}}) talked about a post-COVID world where barriers and boundaries between people have not been resurrected.
 
 {{< notice reflection >}}
 

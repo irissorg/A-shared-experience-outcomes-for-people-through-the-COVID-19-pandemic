@@ -9,7 +9,7 @@ menu = "main"
 weight = 50
 +++
 
-There are similarities between the key experiences described in the stories with other (survey-based) research conducted in 2020 by Community Care ([surveys](https://www.communitycare.co.uk/2020/05/28/social-workers-say-coronavirus-negatively-affected-services-people-they-support/)), the Scottish Government ([Everyone Matters) ](https://www.imatter.scot/media/1947/everyone-matters-pulse-survey-national-report-2020-final-version.pdf)and ARC Scotland ([We’re All in This Together](https://arcscotland.org.uk/wp-content/uploads/Were-all-in-this-together-The-impact-of-Covid-19-on-the-future-of-social-care.pdf)). Some key similarities from across these three sources include:
+There are similarities between the key experiences described in the stories with other (survey-based) research conducted in 2020 by Community Care ([surveys](https://www.communitycare.co.uk/2020/05/28/social-workers-say-coronavirus-negatively-affected-services-people-they-support/)), the Scottish Government ([Everyone Matters) ](../files/everyone-matters-pulse-survey-national-report-2020-final-version.pdf)and ARC Scotland ([We’re All in This Together](https://arcscotland.org.uk/resources/publications/were-all-in-this-together-the-impact-of-covid-19-on-the-future-of-social-care-in-scotland-a-view-from-the-workforce/)). Some key similarities from across these three sources include:
 
 * Staff felt motivated, committed and proud of their work during lockdown
 * Support from colleagues and managers was key to staff motivation and wellbeing

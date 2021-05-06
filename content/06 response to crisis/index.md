@@ -31,7 +31,7 @@ The most prevalent key change commonly described in the stories was moving to re
 
 {{< soundcloud 997896736 >}}
 
-[Wilma: ‘My role has been so different’](https://soundcloud.com/iriss/wilma-roles/s-SFjM7ohAZva)
+[Transcript for Wilma: My role has been so different]({{< ref "09 transcripts/index.md#wilma-my-role-has-been-so-different" >}})
 
 ### Addressing barriers and staying informed
 
@@ -45,7 +45,7 @@ One of the key reasons for switching to online was to facilitate the mass adapta
 
 {{< soundcloud 1004745862 >}}
 
-[Alison: ‘I lot of what we did changed overnight’](https://soundcloud.com/iriss/alison-rethink/s-2y6jYwOE3T8)
+[Transcript for Alison: I lot of what we did changed overnight]({{< ref "09 transcripts/index.md#alison-i-lot-of-what-we-did-changed-overnight" >}})
 
 ### Challenging assumptions about technology
 
@@ -69,7 +69,8 @@ With regard to their own sense of connectedness, most storytellers viewed the sw
 
 {{< soundcloud 997884352 >}}
 
-[Keir: ‘Providing that safe online environment has been absolutely indispensable’](https://soundcloud.com/iriss/keir-safety/s-6m5zeU3TVFh)
+[Transcript for Keir: Providing that safe online environment has been absolutely indispensable]({{< ref "09 transcripts/index.md#keir-providing-that-safe-online-environment-has-been-absolutely-indispensable" >}})
+
 
 ### Benefits of technology - accessibility and staying connected
 
@@ -97,7 +98,7 @@ Although internet technology dominated many of the narratives, the stories also 
 
 {{< soundcloud 997897426 >}}
 
-[Wilma: ‘I’m conscious of the digital divide Covid has exposed’](https://soundcloud.com/iriss/wilma-digitaldivide/s-mGE00QU8Bmn)
+[Transcript for Wilma: I’m conscious of the digital divide Covid has exposed]({{< ref "09 transcripts/index.md#wilma-i’m-conscious-of-the-digital-divide-covid-has-exposed" >}})
 
 ## Priority outcomes for people
 
@@ -136,7 +137,7 @@ Between staff and supported people there was a sense that boundaries had begun t
 
 {{< soundcloud 997898668 >}}
 
-[Sandy: ‘It’s affected us all’](https://soundcloud.com/iriss/sandy-sharedexp/s-1tEH74eKPKS)
+[Transcript for Sandy: It’s affected us all]({{< ref "09 transcripts/index.md#sandy-it’s-affected-us-all" >}})
 
 ### Making a contribution and community connections
 
@@ -165,7 +166,7 @@ Technology also helped maintain togetherness and cohesion for teams, **reducing 
 
 {{< soundcloud 999063112 >}}
 
-[Don: ‘We’re a close knit team’](https://soundcloud.com/iriss/don-team/s-6URFmdm9DrI)
+[Transcript for Don: We’re a close knit team]({{< ref "09 transcripts/index.md#don-we’re-a-close-knit-team" >}})
 
 ### Wider shifts within organisations
 
@@ -189,19 +190,19 @@ Where decision-making and autonomy was further devolved to staff working directl
 
 {{< soundcloud 999165718 >}}
 
-[Don: ‘Put that rule book aside’](https://soundcloud.com/iriss/don-rulebook/s-0ThUHloF8iz)
+[Transcript for Don: Put that rule book aside]({{< ref "09 transcripts/index.md#don-put-that-rule-book-aside" >}})
 
 {{< soundcloud 999064060 >}}
 
-[Julie: ‘Information was relatable and human’](https://soundcloud.com/iriss/julie-comms/s-yInVxxznqIt)
+[Transcript for Julie: Information was relatable and human]({{< ref "09 transcripts/index.md#julie-information-was-relatable-and-human" >}})
 
 {{< soundcloud 999175081 >}}
 
-[Alison: ‘You have to have trust and courage’](https://soundcloud.com/iriss/alison-leadership-1/s-PsXVqaRLoCD)
+[Transcript for Alison: You have to have trust and courage]({{< ref "09 transcripts/index.md#alison-you-have-to-have-trust-and-courage" >}})
 
 {{< soundcloud 999174175 >}}
 
-[Don: ‘Two words that spring to mind are energy and horizons’](https://soundcloud.com/iriss/don-energy/s-UEZeXAGgmhk)
+[Transcript for Don: Two words that spring to mind are energy and horizons]({{< ref "09 transcripts/index.md#don-two-words-that-spring-to-mind-are-energy-and-horizons" >}})
 
 ### Across agency boundaries
 
@@ -219,11 +220,9 @@ Several stories (Anne-Marie, Katy, Alice) described that approaching information
 
 {{< soundcloud 1004770801 >}}
 
-[Alison: ‘The relationships were there before’](https://soundcloud.com/iriss/alison-workingtogether-1/s-ZlE7sHWgQUR)
+[Transcript for Alison: The relationships were there before]({{< ref "09 transcripts/index.md#alison-the-relationships-were-there-before" >}})
 
 {{< youtube phPwy7bqLvY >}}
-
-[Katy: ‘This was a really proactive approach](https://www.youtube.com/watch?v=phPwy7bqLvY&feature=youtu.be)
 
 ## Emotional impact on staff
 
@@ -273,8 +272,8 @@ While self-care and maintaining values was identified as a key part of staff str
 
 {{< soundcloud 999064864 >}}
 
-[Keir: ‘Who cares for the carers?’](https://soundcloud.com/iriss/keir-selfcare/s-LTDNOhZHFWh)
+[Transcript for Keir: ‘Who cares for the carers?’]({{< ref "09 transcripts/index.md#keir-‘who-cares-for-the-carers-’" >}})
 
 {{< soundcloud 999366622 >}}
 
-[Julie: ‘I feel like I’m fully living the values’](https://soundcloud.com/iriss/julie-values/s-gFNTjBgWTLh)
+[Transcript for Julie: I feel like I’m fully living the values]({{< ref "09 transcripts/index.md#julie-i-feel-like-i’m-fully-living-the-values" >}})
