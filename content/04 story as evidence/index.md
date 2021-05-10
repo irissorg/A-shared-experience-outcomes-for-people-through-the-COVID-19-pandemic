@@ -1,8 +1,9 @@
 +++
 title = "Story as evidence"
 subtitle = ""
-description = "Make sense of what COVID-19 crisis has meant for outcomes for people"
+description = "What has the COVID-19 crisis has meant for outcomes for people"
 url= "stories-evidence"
+featured_image = "../images/lime.jpg"
 date = 2021-05-01T15:13:22Z
 draft = false
 menu = "main"

@@ -1,9 +1,10 @@
 +++
 title = "Phase 1: Response to crisis"
 subtitle = ""
-description = "Make sense of what COVID-19 crisis has meant for outcomes for people"
+description = "What has the COVID-19 crisis has meant for outcomes for people"
 url= "response-to-crisis"
 date = 2021-05-01T15:13:22Z
+featured_image = "../images/green.jpg"
 draft = false
 menu = "main"
 weight = 60

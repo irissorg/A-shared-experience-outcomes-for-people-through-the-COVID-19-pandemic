@@ -1,10 +1,8 @@
 +++
 title = "Overview"
 subtitle = ""
-description = "A practical framework for supporting the writing of analysis in social care records"
+description = "What has the COVID-19 crisis has meant for outcomes for people"
 featured_image =  "/images/heart.png"
 url_start = "introduction"
 +++
-The aim of this course is to provide a practical framework for supporting the writing of analysis in social care records.
-
-This course aims to be relevant across social work domains.
+What has the COVID-19 crisis has meant for outcomes for people.

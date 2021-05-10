@@ -1,7 +1,7 @@
 +++
 title = "Introduction"
 subtitle = ""
-description = "Make sense of what COVID-19 crisis has meant for outcomes for people"
+description = "What has the COVID-19 crisis has meant for outcomes for people"
 url= "introduction"
 date = 2021-05-01T15:13:22Z
 draft = false
@@ -15,9 +15,9 @@ This resource brings together the learning from a collection of stories gathered
 
 This project collected the stories across three phases in 2020 which is reflected in the structure of this resource.
 
-* Phase 1: Response to crisis - spring / summer 2020
-* Phase 2: Continuity and endurance - autumn 2020
-* Phase 3: Looking to the future and recovery - winter 2020 / 2021
+* [Phase 1: Response to crisis]({{< ref "06 response to crisis" >}}) - spring / summer 2020
+* [Phase 2: Continuity and endurance]({{< ref "07 continuity and endurance" >}}) - autumn 2020
+* [Phase 3: Looking to the future and recovery]({{< ref "08 looking to the future and recovery" >}}) - winter 2020 / 2021
 
 The prompts in Phase 3 provide a practical aspect, helping you connect your experiences with those shared in this resource. Similar to our [Outcomes & Co tool](https://www.iriss.org.uk/resources/tools/outcomes-co), these could be used as a framework for conversations in supervision, team meetings, partner discussions or for individual reflection.
 
@@ -31,7 +31,7 @@ Use of this resource contributes to the following outcomes:
 
 ## Evaluation
 
-We’d love to hear your feedback on this resource, how you’ve used it and what, if any, difference it’s made. [This short survey](https://www.surveymonkey.co.uk/r/sharedexperience) will take five minutes and will be really helpful to inform future resource development.
+We’d love to hear your feedback on this resource, how you’ve used it and what, if any, difference it’s made. This short survey will take five minutes and will be really helpful to inform future resource development.
 
 {{< button href="https://www.surveymonkey.co.uk/r/sharedexperience" >}}Provide Feedback{{< /button >}}
 

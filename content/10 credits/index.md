@@ -1,7 +1,7 @@
 +++
 title = "Credits"
 subtitle = ""
-description = "Make sense of what COVID-19 crisis has meant for outcomes for people"
+description = "What has the COVID-19 crisis has meant for outcomes for people"
 url= "credits"
 date = 2021-05-01T15:13:22Z
 draft = false
